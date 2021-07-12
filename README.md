@@ -44,4 +44,4 @@ Importante:
 [⚡️] Crie uma descrição de seu projeto no Github com imagem ou vídeos da execução, tecnologias, tags e aprendizados
 
 
-[[Watch the video](file:///C:/Users/meduardao/Downloads/bloggif_60eb9519b4ee3.gif)]
+[![Watch the video](file:///C:/Users/meduardao/Downloads/bloggif_60eb9519b4ee3.gif)]
