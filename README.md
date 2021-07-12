@@ -1,5 +1,7 @@
 # Agilizei-Desafio-1
 
+![Alt Text](https://i.picasion.com/pic91/9ebd0f6517f02879510964cc19f7272b.gif)
+
 #Cypress #Agilizei #QA #Tester #Automacao #testedesoftware #qualidadedesoftware
 
 Desafio 01 - Agilizei Cypress Bootcamp ⚡️ - Consolidar os aprendizados do Chapter 1
@@ -16,7 +18,6 @@ Importante:
 ⚡️ Cadastrar um novo usuário
 
 ⚡️⚡️ Checklist
-
 [⚡️] Criar uma nova pasta/diretório com o nome do desafio
 [⚡️] Abrir o pasta criada no Visual Studio Code
 [⚡️] Configurar um novo projeto node
